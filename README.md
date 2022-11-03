@@ -1,2 +1,2 @@
-# OIBGRIP
-Wev development & Designing Internship tasks of Oasis Infobyte
+# OIBGRIP_Task-1
+Wev development & Designing Internship tasks-1 of Oasis Infobyte
